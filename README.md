@@ -10,6 +10,8 @@ wp make-wxr --site_title=Foo --site_url=http://foo.bar --post_count=100 --commen
 
 All arguments are optional. Sensible defaults are used if no arguments are passed.
 
+The WXR just spews out to the screen, so redirect it to a file for now. 
+
 Notes:
 ------
 
@@ -21,4 +23,3 @@ Notes:
 * Dates are randomized. For posts, they start 60 days from when the command is executed and are randomly assigned to posts without regard to numeric post order. Comment dates are given between the post date and the time of command execution.
 * Post and comment content are randomized lorem ipsum text of varying lengths.
 * At present this generates only posts -- no pages or attachments.
-
