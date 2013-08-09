@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<!-- generator="WordPress/3.6-beta3-24432" created="2013-08-09 10:41:24" -->
+		<rss version="2.0"
+			xmlns:excerpt="http://wordpress.org/export/1.1/excerpt/"
+			xmlns:content="http://purl.org/rss/1.0/modules/content/"
+			xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:wp="http://wordpress.org/export/1.1/"
+		>
+
+		<channel>
+			<title>Make-wxr Example</title>
+			<link>http://github.com/dllh/make-wxr/</link>
+			<description>Make-wxr Example</description>
+			<pubDate>Fri, 09 Aug 2013 10:41:24 +0000</pubDate>
+			<language>en</language>
+			<wp:wxr_version>1.1</wp:wxr_version>
+			<wp:base_site_url>http://github.com/dllh/make-wxr/</wp:base_site_url>
+			<wp:base_blog_url>http://github.com/dllh/make-wxr/</wp:base_blog_url>
+
+							<wp:author><wp:author_id>1</wp:author_id><wp:author_login>author1</wp:author_login><wp:author_email></wp:author_email><wp:author_display_name><![CDATA[Author 1]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+			
+							<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>category-fe0b314ccf-1</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Category fe0b314ccf 1]]></wp:cat_name></wp:category>
+							<wp:category><wp:term_id>2</wp:term_id><wp:category_nicename>category-3fab03c6f4-2</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Category 3fab03c6f4 2]]></wp:cat_name></wp:category>
+							<wp:category><wp:term_id>3</wp:term_id><wp:category_nicename>category-31d116783c-3</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Category 31d116783c 3]]></wp:cat_name></wp:category>
+			
+							<wp:term><wp:term_id>1</wp:term_id><wp:term_taxonomy>post_tag</wp:term_taxonomy><wp:term_slug>tag-897718d4dc-1</wp:term_slug><wp:term_name><![CDATA[Tag 897718d4dc 1]]></wp:term_name></wp:term>
+							<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>post_tag</wp:term_taxonomy><wp:term_slug>tag-4ff5b67023-2</wp:term_slug><wp:term_name><![CDATA[Tag 4ff5b67023 2]]></wp:term_name></wp:term>
+							<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>post_tag</wp:term_taxonomy><wp:term_slug>tag-871d8e61b9-3</wp:term_slug><wp:term_name><![CDATA[Tag 871d8e61b9 3]]></wp:term_name></wp:term>
+			
+			<generator>http://wordpress.org/?v=3.6-beta3-24432</generator>
+
+						<item>
+				<title>Post Number 1</title>
+				<link>http://github.com/dllh/make-wxr/2013/06/post-number-1/</link>
+				<pubDate>Thu, 13 Jun 2013 01:50:24 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Consectetur dolor do dolor cillum minim ex in incididunt eiusmod laborum enim tempor.
+
+Occaecat sint non esse id aute et irure ullamco nisi laboris tempor nulla dolore pariatur velit duis sit enim culpa sunt elit reprehenderit quis est dolor veniam, excepteur qui ipsum anim deserunt cillum consectetur sed adipisicing commodo incididunt cupidatat lorem laborum labore eu proident magna amet aliqua ea fugiat aliquip nostrud dolore ut minim in exercitation eiusmod ut in mollit ex ut ad in voluptate officia dolor consequat.
+
+In ullamco sit sint irure eu esse tempor sunt voluptate anim.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>1</wp:post_id>
+				<wp:post_date>2013-06-13 01:50:24</wp:post_date>
+				<wp:post_date_gmt>2013-06-13 01:50:24</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-1</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>1</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-06 18:41:44</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-06 18:41:44</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[In cupidatat aliqua aliquip dolore velit minim deserunt dolor esse ullamco officia qui nostrud cillum commodo do consequat ipsum nisi nulla eiusmod incididunt amet magna irure sed exercitation veniam, culpa lorem consectetur in est proident dolore quis excepteur sint et aute id elit in sit duis reprehenderit laboris labore ut enim laborum occaecat pariatur eu sunt voluptate ea non anim adipisicing fugiat mollit ut ex tempor dolor ut.
+
+In consectetur est sint exercitation et sit enim mollit lorem dolore eiusmod aliquip fugiat aute ad cupidatat velit amet dolor ut quis esse non excepteur occaecat deserunt in duis ea do dolore commodo officia dolor minim ut aliqua ipsum sunt proident pariatur adipisicing culpa elit.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>2</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-09 15:39:02</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-09 15:39:02</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Velit proident culpa nostrud aliqua labore eiusmod reprehenderit commodo cillum.
+
+Lorem id dolor pariatur eiusmod consectetur dolore excepteur non est officia fugiat duis ut sint amet aute ut cupidatat nisi culpa irure adipisicing ad in reprehenderit dolore sit consequat tempor et do ex nostrud esse ut enim in magna dolor sed eu aliquip anim.
+
+Sint consequat ullamco culpa reprehenderit nostrud sit quis incididunt nulla ut duis voluptate nisi aliqua exercitation adipisicing ut lorem elit commodo excepteur magna eu et pariatur fugiat sed dolor esse irure mollit ut occaecat deserunt consectetur ad veniam, amet minim aliquip cillum laboris non est ea labore eiusmod do dolore officia in laborum proident ipsum in enim.
+
+Irure fugiat ut sed ad elit ex.
+
+Adipisicing quis commodo consequat amet magna culpa duis ipsum cupidatat in esse officia lorem sed ut qui eiusmod pariatur sint ut tempor id consectetur mollit ullamco eu labore in est veniam, nulla aute exercitation anim elit ea laborum dolore enim dolor nostrud aliqua excepteur sit deserunt occaecat incididunt fugiat voluptate non in.
+
+Minim sed qui excepteur sint nostrud fugiat officia dolor exercitation.
+
+Ad tempor et exercitation excepteur minim eu in dolore pariatur ipsum velit elit proident ea in duis dolore deserunt quis do voluptate cupidatat mollit.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+						<item>
+				<title>Post Number 2</title>
+				<link>http://github.com/dllh/make-wxr/2013/07/post-number-2/</link>
+				<pubDate>Fri, 26 Jul 2013 16:05:21 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Sit et deserunt excepteur cillum anim ex adipisicing enim id amet eu exercitation in elit ullamco in aliquip voluptate magna aute sed tempor velit ipsum laborum minim officia consectetur veniam, occaecat fugiat sint laboris lorem commodo in nisi mollit ea quis dolore non proident est cupidatat ut eiusmod dolor ut aliqua nulla dolore sunt esse irure qui.
+
+Nisi ipsum dolor ad lorem ea tempor velit aliquip do et nostrud sint veniam, laboris excepteur commodo labore reprehenderit aliqua occaecat incididunt esse dolore magna nulla minim consectetur dolor consequat enim ullamco est deserunt ut amet culpa irure id mollit anim ut adipisicing cupidatat ex in in proident qui non laborum eiusmod eu.
+
+Sit eiusmod deserunt dolor mollit ut duis labore consequat aliqua anim velit amet in cupidatat non.
+
+Excepteur ut minim dolor enim adipisicing laboris elit eu do sed ut nostrud nisi commodo reprehenderit veniam, in magna non nulla anim tempor cupidatat lorem consectetur ad aliqua in laborum dolor voluptate quis.
+
+Cillum nisi commodo sint anim dolor fugiat magna in ad nostrud qui ea amet proident et exercitation velit ut enim consequat voluptate dolor do irure aliqua mollit sit culpa duis excepteur dolore incididunt ex dolore sed laborum esse eu.
+
+Ut fugiat ut consectetur sit duis velit exercitation enim adipisicing ipsum ullamco aute deserunt aliqua aliquip magna dolore in est tempor nisi minim.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>2</wp:post_id>
+				<wp:post_date>2013-07-26 16:05:21</wp:post_date>
+				<wp:post_date_gmt>2013-07-26 16:05:21</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-2</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>3</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-29 16:48:41</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-29 16:48:41</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Labore adipisicing sed in nulla excepteur reprehenderit do ut proident exercitation velit ut qui esse consectetur duis quis et ullamco voluptate laboris magna dolor anim ad ex in pariatur aliqua sint sit.
+
+Non ut labore ut tempor adipisicing sed velit ullamco veniam, exercitation ad incididunt aute dolor magna amet officia do aliquip et minim est in quis dolor sit proident pariatur fugiat ipsum dolore irure ex anim laboris enim nostrud lorem.
+
+Veniam, voluptate enim dolore amet nisi ad in ut sit tempor officia sint sed elit ipsum occaecat magna reprehenderit labore laboris dolore do aliqua qui in laborum eiusmod cillum aliquip non adipisicing deserunt minim excepteur proident nulla exercitation irure.
+
+Do sed aute ex ut sit tempor anim ea commodo aliquip.
+
+Duis laborum consequat dolore cillum eiusmod sint adipisicing ad anim velit dolore esse culpa in quis sed voluptate ut aliquip id nisi ut sit elit commodo qui aute ea cupidatat in aliqua consectetur laboris.
+
+Aliquip proident ipsum adipisicing ad aliqua in labore et commodo dolore elit laborum ut non pariatur sit amet eu laboris voluptate incididunt ut nostrud qui mollit occaecat sunt nulla eiusmod minim lorem consectetur id culpa duis tempor aute esse ullamco reprehenderit dolor.
+
+Dolor est et cupidatat exercitation adipisicing dolore non aute dolore laborum reprehenderit velit mollit ex laboris id ut incididunt veniam, minim ut aliquip duis ea nostrud proident ut labore in eiusmod occaecat consequat consectetur voluptate in sed commodo nisi dolor cillum sunt aliqua quis fugiat.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>4</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-08-04 17:44:10</wp:comment_date>
+							<wp:comment_date_gmt>2013-08-04 17:44:10</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Sunt labore aute quis dolor ut mollit in dolor velit voluptate adipisicing culpa irure cupidatat id fugiat elit reprehenderit commodo magna minim in in dolore exercitation enim nostrud aliqua ut.
+
+Enim eiusmod anim id qui ad nostrud incididunt do cillum minim in sed labore velit mollit culpa eu exercitation.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+						<item>
+				<title>Post Number 3</title>
+				<link>http://github.com/dllh/make-wxr/2013/08/post-number-3/</link>
+				<pubDate>Wed, 07 Aug 2013 14:49:40 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Ex laborum culpa quis id enim voluptate tempor aliquip consequat velit ut lorem in cillum esse ad minim excepteur pariatur sit ipsum sed in sunt mollit proident occaecat laboris aliqua deserunt incididunt eiusmod eu amet ut ullamco sint dolor est irure nulla ea et nisi nostrud do aute commodo officia ut exercitation veniam, elit dolor fugiat.
+
+Et ex officia consectetur deserunt commodo est non nulla cupidatat velit ea ut laborum proident veniam, minim laboris consequat sunt fugiat occaecat ipsum ad.
+
+Aliquip commodo minim enim nulla est ut laboris nisi eiusmod id excepteur incididunt sed reprehenderit officia velit magna culpa sunt ut tempor ad irure labore ut esse exercitation in dolor occaecat quis ex non fugiat in pariatur cupidatat lorem deserunt ipsum qui dolore dolor nostrud in do voluptate.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>3</wp:post_id>
+				<wp:post_date>2013-08-07 14:49:40</wp:post_date>
+				<wp:post_date_gmt>2013-08-07 14:49:40</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-3</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>5</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-08-08 02:48:50</wp:comment_date>
+							<wp:comment_date_gmt>2013-08-08 02:48:50</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Irure quis cillum labore ut tempor veniam, magna in elit duis commodo consequat sit officia consectetur velit deserunt id laboris amet occaecat sed dolore in enim esse sint pariatur lorem aliqua sunt ut eu dolor et ut nulla fugiat.
+
+Mollit tempor excepteur ut deserunt incididunt exercitation dolore ex occaecat quis esse.
+
+Mollit elit veniam, aute do reprehenderit eiusmod minim amet lorem tempor magna duis et cupidatat ut ipsum nisi est deserunt consectetur ut ea aliqua fugiat non dolor esse laborum dolor occaecat sint anim laboris sunt ad nulla velit dolore dolore in officia ut sit sed id voluptate excepteur in enim adipisicing commodo proident pariatur ullamco labore quis qui ex irure culpa eu aliquip in nostrud cillum.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>6</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-08-07 18:25:13</wp:comment_date>
+							<wp:comment_date_gmt>2013-08-07 18:25:13</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Ut ullamco cillum et do aliqua ipsum exercitation fugiat in ea eiusmod sit velit ad duis nostrud.
+
+Aliqua est dolor commodo ex qui ut sit adipisicing esse incididunt ut sed ea sunt lorem dolor aliquip in enim consectetur labore nisi voluptate velit et occaecat laboris proident reprehenderit deserunt sint dolore nulla laborum eu.
+
+Dolor ipsum anim reprehenderit deserunt sunt non commodo irure quis lorem esse est nostrud in qui exercitation.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+						<item>
+				<title>Post Number 4</title>
+				<link>http://github.com/dllh/make-wxr/2013/07/post-number-4/</link>
+				<pubDate>Sun, 07 Jul 2013 15:27:04 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Minim do ut ex cupidatat tempor dolor quis aute sed dolore incididunt et irure occaecat cillum nisi sunt.
+
+Culpa qui duis fugiat nisi dolor laboris nulla velit.
+
+Veniam, dolor deserunt do ut aliqua ut mollit consectetur enim lorem irure quis labore excepteur ullamco sed ea dolor in id aute non sunt consequat esse in elit exercitation ipsum occaecat velit ad voluptate sint qui magna duis est et.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>4</wp:post_id>
+				<wp:post_date>2013-07-07 15:27:04</wp:post_date>
+				<wp:post_date_gmt>2013-07-07 15:27:04</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-4</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>7</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-26 17:06:33</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-26 17:06:33</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Exercitation incididunt ad adipisicing mollit dolor ex aliquip elit dolor eu ut consectetur cupidatat pariatur deserunt ut excepteur sunt proident lorem ut magna in et commodo eiusmod veniam, sint laboris nulla amet in in aliqua.
+
+Dolor sit commodo sed do enim consequat officia ad non minim qui ea exercitation magna lorem occaecat dolor aute in aliquip labore pariatur.
+
+Labore est do pariatur dolore deserunt voluptate ex excepteur ad veniam, tempor proident esse elit sunt lorem eiusmod officia aliqua incididunt reprehenderit in laborum eu ullamco nostrud ut qui duis.
+
+Amet deserunt reprehenderit ut aliquip officia id adipisicing non anim commodo est irure labore sit veniam, consequat in aute exercitation ipsum consectetur cupidatat nulla dolore fugiat do elit dolore laborum qui sint laboris ut sed nostrud pariatur ad.
+
+Nulla amet in fugiat dolore cupidatat eiusmod eu laborum non quis sint occaecat veniam, deserunt enim ut officia aliquip dolore magna id adipisicing ad do reprehenderit aliqua exercitation ea voluptate dolor lorem commodo laboris ipsum proident.
+
+Pariatur sit irure sunt dolor sint est lorem et excepteur qui nostrud proident nisi quis cillum consectetur tempor incididunt ut anim duis commodo ullamco dolore aliquip cupidatat laborum reprehenderit magna fugiat eiusmod.
+
+Irure esse non ut dolor in ad adipisicing eu cillum id excepteur duis mollit minim velit elit reprehenderit culpa laborum enim dolore ex sint.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>8</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-08-02 23:40:17</wp:comment_date>
+							<wp:comment_date_gmt>2013-08-02 23:40:17</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Anim enim laborum quis do sint aute ut ea laboris aliqua dolore officia esse ipsum culpa nisi commodo in qui lorem cillum non sit elit consectetur ad est sed duis.
+
+Labore reprehenderit aute aliquip incididunt commodo adipisicing cillum minim ea elit occaecat ipsum eu consequat non dolore magna culpa.
+
+Anim magna veniam, consectetur nulla dolor occaecat ut elit incididunt ut fugiat aute dolore do id ut tempor aliquip officia in velit minim labore quis irure ullamco commodo reprehenderit sint eiusmod eu ex lorem laboris ipsum laborum sunt aliqua ad est nostrud dolor excepteur adipisicing mollit non dolore deserunt ea cillum nisi et voluptate culpa enim cupidatat esse.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+						<item>
+				<title>Post Number 5</title>
+				<link>http://github.com/dllh/make-wxr/2013/06/post-number-5/</link>
+				<pubDate>Sat, 29 Jun 2013 13:31:44 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Ullamco aliqua officia ut velit reprehenderit in id et ad est nisi laborum cillum ipsum quis fugiat labore elit ut eiusmod dolor nulla magna consequat consectetur duis pariatur ex lorem exercitation nostrud incididunt cupidatat ea sed in mollit dolore.
+
+Qui sed incididunt reprehenderit amet voluptate aliquip mollit aute esse laborum sint minim ad duis veniam, in.
+
+Mollit do eu duis dolore ad est amet aliquip ut velit incididunt reprehenderit voluptate dolor non magna nisi consectetur ut laboris aliqua nostrud dolor dolore id esse ea in tempor labore excepteur anim exercitation et ipsum cillum occaecat culpa consequat nulla ut in sint eiusmod cupidatat fugiat pariatur elit minim aute sunt ex sit sed veniam, qui commodo deserunt.
+
+Eu anim ad nisi est velit do sed nulla aliqua incididunt.
+
+Duis ut voluptate est quis velit cupidatat tempor qui ipsum eiusmod esse nulla magna sint anim ut in mollit laboris consequat adipisicing ea deserunt proident commodo pariatur cillum laborum aliquip veniam, do fugiat ex aute sit in ut sed ad sunt dolor elit ullamco id lorem excepteur in irure dolore non reprehenderit enim occaecat consectetur aliqua amet minim nisi et eu exercitation nostrud culpa officia dolore incididunt dolor labore.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>5</wp:post_id>
+				<wp:post_date>2013-06-29 13:31:44</wp:post_date>
+				<wp:post_date_gmt>2013-06-29 13:31:44</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-5</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>9</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-08 21:44:34</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-08 21:44:34</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Laborum aliquip incididunt ipsum nostrud et id proident aliqua occaecat exercitation eiusmod anim ut irure ut sit ea veniam, dolor consequat mollit labore.
+
+Commodo qui culpa esse exercitation ad voluptate.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>10</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-09 00:39:39</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-09 00:39:39</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Dolore in irure ullamco adipisicing laborum lorem consequat fugiat mollit culpa ut eu ea minim est labore exercitation eiusmod et duis excepteur sit proident esse id voluptate deserunt occaecat sunt velit dolor in cupidatat cillum dolor in ipsum enim ut veniam, nisi aliqua quis ad magna incididunt consectetur tempor.
+
+Ex exercitation nostrud excepteur dolor laborum ut laboris eiusmod fugiat esse qui incididunt dolore adipisicing enim voluptate sed est lorem quis in sint dolor mollit cupidatat eu tempor velit aliquip et dolore pariatur in.
+
+Sint sit culpa excepteur labore commodo tempor velit ullamco quis laboris fugiat consequat reprehenderit dolor ea minim dolore ut sed deserunt dolor in non veniam, eu amet incididunt anim irure officia et cillum ut cupidatat nostrud ad nulla ut exercitation do proident mollit est pariatur nisi.
+
+Incididunt consectetur ut ut ea id irure pariatur ad aliquip dolor non adipisicing minim lorem aute est sint velit reprehenderit ipsum veniam, cupidatat dolor ut et ex magna excepteur consequat enim exercitation in.
+
+Aliquip enim amet tempor irure nostrud dolor reprehenderit voluptate ea anim exercitation ut eiusmod consequat nulla ad cupidatat in adipisicing aliqua velit quis id dolore et incididunt veniam, esse in sint non pariatur ut proident sit magna labore cillum occaecat dolor fugiat ipsum qui ullamco ex duis sed laboris commodo nisi eu est deserunt aute laborum excepteur sunt minim.
+
+Ipsum duis magna nulla mollit proident velit ut consectetur laborum pariatur non labore cupidatat sint id quis adipisicing elit ad eiusmod ut cillum dolor aliquip incididunt sed aute ex esse.
+
+Et dolor est pariatur labore consectetur aute sunt excepteur ad ea exercitation cupidatat in do quis deserunt sint mollit velit laboris ut duis tempor reprehenderit commodo ut minim voluptate sit aliquip nulla nostrud in veniam, magna ut adipisicing aliqua enim officia fugiat eiusmod lorem occaecat laborum proident eu dolore incididunt id dolor dolore consequat anim sed qui ex irure ullamco culpa.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+						<item>
+				<title>Post Number 6</title>
+				<link>http://github.com/dllh/make-wxr/2013/08/post-number-6/</link>
+				<pubDate>Tue, 06 Aug 2013 17:13:10 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Anim do enim minim exercitation non esse consequat ut est eiusmod reprehenderit tempor dolor in sint quis qui in ad aliquip nisi commodo laboris ullamco aliqua cillum eu ea dolor id laborum excepteur incididunt culpa.
+
+Ullamco consectetur quis ipsum elit est id non velit cillum eu qui aliqua deserunt reprehenderit officia mollit enim ex anim sunt eiusmod fugiat nisi duis commodo proident laboris pariatur nulla aute ut cupidatat in incididunt nostrud irure ut ea labore voluptate dolor sint dolore lorem laborum consequat tempor veniam, magna culpa minim occaecat sit adipisicing sed ut excepteur amet in ad et do esse aliquip dolore.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>6</wp:post_id>
+				<wp:post_date>2013-08-06 17:13:10</wp:post_date>
+				<wp:post_date_gmt>2013-08-06 17:13:10</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-6</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>11</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-08-09 06:06:44</wp:comment_date>
+							<wp:comment_date_gmt>2013-08-09 06:06:44</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Deserunt esse in aliqua excepteur laborum ipsum cupidatat.
+
+Fugiat voluptate nostrud ut ad veniam, sint elit labore incididunt esse ut nulla est enim consectetur ut do laboris nisi occaecat anim sunt.
+
+Fugiat exercitation in eu enim consectetur irure magna dolore dolor est officia sint consequat ut voluptate minim adipisicing id deserunt.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>12</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-08-09 05:14:34</wp:comment_date>
+							<wp:comment_date_gmt>2013-08-09 05:14:34</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Consequat aute in nostrud et minim dolor nisi qui eiusmod quis magna voluptate occaecat exercitation dolore id adipisicing cillum fugiat in veniam, do laborum commodo anim duis.
+
+Aliqua eiusmod excepteur minim deserunt dolor veniam, mollit et in dolor incididunt officia velit id reprehenderit dolore ut qui ipsum dolore esse adipisicing nostrud nulla fugiat commodo sunt duis quis sed proident exercitation consectetur consequat ea ut sint cillum in lorem ad culpa ut amet tempor aute occaecat pariatur aliquip nisi.
+
+Esse in eu dolor adipisicing ut nulla ullamco cillum deserunt eiusmod nostrud dolore velit amet ut magna labore lorem et culpa aliqua cupidatat qui laboris fugiat ut enim elit pariatur voluptate quis laborum duis nisi incididunt exercitation id in consequat occaecat anim est sit aliquip sint excepteur tempor.
+
+In aliquip qui in elit adipisicing id magna deserunt officia tempor exercitation duis lorem quis consequat in laborum laboris ad commodo nostrud occaecat pariatur labore velit dolor sit voluptate sed minim eu ea non amet dolor.
+
+Minim non dolor excepteur id deserunt anim nisi ut sit officia ad in ex cupidatat pariatur aliqua dolore nulla sint commodo aliquip elit reprehenderit culpa sed ipsum consectetur amet incididunt in cillum do magna qui est irure enim lorem labore quis sunt esse in exercitation nostrud dolore adipisicing consequat.
+
+Officia consectetur eiusmod ut ad minim dolore occaecat enim laborum aliqua adipisicing labore dolore sit anim laboris voluptate sunt mollit cupidatat proident aliquip veniam, nisi fugiat irure lorem elit nostrud magna exercitation sed qui amet velit pariatur eu tempor duis quis reprehenderit consequat non do culpa in et sint esse aute dolor dolor ullamco in nulla est in excepteur ut id deserunt ut ea incididunt cillum ex commodo ipsum.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+						<item>
+				<title>Post Number 7</title>
+				<link>http://github.com/dllh/make-wxr/2013/06/post-number-7/</link>
+				<pubDate>Sun, 30 Jun 2013 01:11:40 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Deserunt dolor sunt consequat proident adipisicing sit amet exercitation lorem in fugiat eiusmod laboris in veniam, non sint qui aliquip tempor minim duis commodo labore ipsum aute ullamco excepteur dolore et occaecat ad incididunt mollit culpa velit pariatur reprehenderit enim sed nisi.
+
+Velit ex exercitation adipisicing aliquip aute ipsum sint est mollit sunt et do aliqua ullamco esse elit ut incididunt consectetur reprehenderit nulla commodo dolore non dolor lorem ea enim veniam, culpa quis dolor.
+
+Quis reprehenderit nostrud sint cillum aute eu velit fugiat aliqua ut.
+
+Adipisicing id sed est esse anim do occaecat in ea dolore nostrud veniam, ut aliquip elit reprehenderit sint eu.
+
+Dolor ullamco aute ad magna in cillum consequat dolore velit quis pariatur qui exercitation ut occaecat in duis do sint nisi eu excepteur mollit nostrud ut et tempor sunt dolore proident adipisicing.
+
+Enim veniam, lorem id et occaecat ipsum adipisicing elit consequat quis eu excepteur laborum in dolore pariatur in eiusmod do laboris nostrud qui est sed duis mollit sunt.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>7</wp:post_id>
+				<wp:post_date>2013-06-30 01:11:40</wp:post_date>
+				<wp:post_date_gmt>2013-06-30 01:11:40</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-7</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>13</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-07 11:03:58</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-07 11:03:58</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Adipisicing sit incididunt reprehenderit ex dolore labore consequat magna nostrud cupidatat eiusmod dolore lorem culpa duis minim dolor anim irure laborum deserunt veniam, velit aliquip ipsum voluptate non commodo sed elit nisi sunt exercitation excepteur cillum dolor aliqua ut in ut ea in qui ullamco proident mollit sint fugiat enim aute ad do quis amet consectetur est pariatur.
+
+Nisi fugiat ut id lorem reprehenderit non in magna et occaecat ad sit exercitation ut sed cillum in aliqua ipsum dolor enim officia aute tempor ex sunt esse cupidatat veniam, adipisicing mollit eiusmod.
+
+Dolore in excepteur duis ad do amet sunt aliquip ullamco magna ea tempor esse ex eiusmod irure anim veniam, aliqua adipisicing officia ut cupidatat enim dolore ipsum minim nulla dolor id nisi eu ut fugiat deserunt in laborum proident consequat cillum aute velit culpa dolor sint consectetur incididunt non sed occaecat nostrud qui et ut in elit voluptate pariatur.
+
+Culpa esse reprehenderit eu est eiusmod aliquip dolor consequat enim sunt ex amet exercitation incididunt ut aliqua magna ipsum ea consectetur sint dolor.
+
+Aute et amet sit dolor irure non adipisicing lorem esse quis ipsum voluptate cupidatat in excepteur.
+
+Velit nisi nulla tempor mollit laborum reprehenderit adipisicing ut quis dolore non labore excepteur id sed occaecat sunt ad est lorem laboris aliquip ea consectetur culpa deserunt cupidatat exercitation officia anim in esse irure fugiat veniam, ullamco dolor duis consequat in sint eiusmod ex enim aute proident elit ut.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>14</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-20 15:16:35</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-20 15:16:35</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Culpa eu sed ut sint pariatur cupidatat elit amet ad occaecat anim aute lorem labore consequat ea cillum dolore tempor fugiat qui laborum nulla irure aliquip sunt et proident dolor in do esse sit velit commodo reprehenderit quis aliqua incididunt id.
+
+Sint incididunt consequat ut in aute ea commodo mollit fugiat enim aliquip quis veniam, amet exercitation reprehenderit et qui in consectetur aliqua occaecat duis esse non adipisicing voluptate magna labore dolor nisi eu id ut pariatur lorem cupidatat dolore nostrud officia laborum sed do culpa cillum eiusmod ad velit ipsum elit in ex anim sunt deserunt tempor.
+
+Dolor deserunt dolore nisi in tempor lorem consectetur in do sint non mollit ut ipsum cillum officia sit commodo duis culpa nulla voluptate cupidatat pariatur ad veniam, id eiusmod fugiat magna.
+
+Amet occaecat aute lorem commodo exercitation consequat minim sit ad laborum id in qui.
+
+Ad veniam, consectetur officia aute reprehenderit ut duis velit in sunt deserunt nulla sed esse nisi exercitation dolor incididunt consequat aliqua nostrud ex ullamco in tempor ipsum anim ut id et.
+
+Mollit deserunt eu exercitation in eiusmod occaecat veniam, nulla ea adipisicing esse sed qui excepteur proident nisi dolore ex dolor reprehenderit ad fugiat ut consequat sit culpa quis elit tempor amet do sunt cupidatat commodo ullamco velit enim id incididunt voluptate cillum magna sint nostrud minim pariatur ipsum ut laborum et in aliqua lorem duis dolore dolor laboris aute irure labore officia consectetur ut anim est aliquip.
+
+Aute commodo sunt pariatur cillum dolor voluptate sint sed id aliquip ea deserunt enim sit irure ad in duis adipisicing ut do laboris fugiat in veniam, culpa nulla nostrud quis consequat velit ullamco dolore ex occaecat eu labore magna esse.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+						<item>
+				<title>Post Number 8</title>
+				<link>http://github.com/dllh/make-wxr/2013/06/post-number-8/</link>
+				<pubDate>Wed, 19 Jun 2013 09:49:16 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Tempor eu non sint ea ad aliquip elit occaecat cupidatat do et amet ut in laboris sit commodo dolor ipsum adipisicing cillum esse dolore ex in voluptate minim ullamco dolore.
+
+Excepteur esse ut eiusmod occaecat mollit ut fugiat dolor duis anim ea sit aliqua amet eu consectetur commodo sunt aute tempor cupidatat adipisicing quis reprehenderit non velit et aliquip voluptate exercitation laboris sint dolor elit minim lorem ex nostrud incididunt ut.
+
+Ut sunt veniam, occaecat magna sit dolor mollit esse labore elit ut sint nisi ea ad non aliquip qui tempor lorem ullamco fugiat eiusmod.
+
+Ex reprehenderit ut proident sed dolor duis ut consequat aliquip voluptate aute officia excepteur enim esse nisi incididunt adipisicing minim cillum veniam, pariatur irure sunt aliqua et in ad laboris sit laborum exercitation anim mollit do.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>8</wp:post_id>
+				<wp:post_date>2013-06-19 09:49:16</wp:post_date>
+				<wp:post_date_gmt>2013-06-19 09:49:16</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-8</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>15</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-02 16:24:51</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-02 16:24:51</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Consequat nostrud aute in velit eiusmod irure ad proident ipsum cillum dolore do pariatur aliquip consectetur incididunt mollit labore quis in ut lorem enim dolor sint est occaecat amet laborum sit sed elit dolor eu in fugiat tempor qui culpa nulla dolore officia ut laboris ullamco exercitation id duis aliqua adipisicing sunt magna deserunt commodo ex ea.
+
+Laboris dolore ad veniam, fugiat eiusmod ut consectetur ea in amet duis cupidatat commodo deserunt dolore nostrud ex adipisicing esse mollit enim consequat ullamco velit sunt sed qui aute ut occaecat tempor incididunt do labore culpa sint in elit cillum id dolor in reprehenderit est exercitation excepteur magna officia anim aliqua nisi irure proident ipsum voluptate.
+
+Exercitation ut minim nostrud occaecat aute eu.
+
+Anim excepteur exercitation aute occaecat proident magna ad aliqua nostrud fugiat dolore qui id labore do in nulla non velit consequat cillum veniam, ea in laborum.
+
+Adipisicing dolore amet ipsum deserunt dolor in reprehenderit lorem veniam, nulla pariatur et do ut id laboris duis culpa enim consequat mollit non.
+
+Sed enim ex irure ut pariatur laborum et sit magna ea adipisicing reprehenderit consequat mollit aliquip ut dolor aute non eiusmod in laboris occaecat sunt officia do labore ad quis fugiat dolor anim qui duis elit esse consectetur voluptate deserunt proident dolore incididunt nisi minim sint cupidatat id exercitation.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>16</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-04 05:24:12</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-04 05:24:12</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Enim velit in dolore id laboris nostrud esse dolor aliqua do aute ut nisi officia labore ex laborum proident ullamco ea mollit dolor pariatur deserunt excepteur tempor est.
+
+Sunt eu veniam, anim excepteur irure esse aliquip sed ex voluptate dolore nisi adipisicing nulla incididunt.
+
+Esse enim ex cillum ut officia exercitation id sed aliquip irure dolore aliqua do quis eiusmod minim proident incididunt nostrud veniam, dolor consequat labore sit elit dolor occaecat consectetur fugiat commodo pariatur aute et amet ullamco tempor non in in in laboris ipsum excepteur reprehenderit est deserunt sint.
+
+Ipsum dolore nostrud ut proident sint sed tempor esse est sunt deserunt eu reprehenderit enim commodo dolor eiusmod id aliqua nisi duis ut in in officia amet anim in adipisicing quis pariatur culpa ullamco non irure magna ex do nulla lorem cupidatat ut ad cillum aliquip sit labore excepteur voluptate laboris veniam, aute et consectetur occaecat fugiat consequat minim.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+						<item>
+				<title>Post Number 9</title>
+				<link>http://github.com/dllh/make-wxr/2013/06/post-number-9/</link>
+				<pubDate>Mon, 10 Jun 2013 21:41:15 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Officia do pariatur proident non sed eu ex ad id laborum consequat in exercitation anim tempor commodo consectetur irure incididunt qui est adipisicing minim ullamco duis reprehenderit voluptate labore laboris aliquip aute in.
+
+Irure laboris ut ad est velit ut aliquip dolore consequat ex consectetur nostrud occaecat in sed in sunt minim cillum pariatur amet magna voluptate tempor do non laborum eu ipsum sint.
+
+Sint est ullamco fugiat id qui et ad esse sit officia occaecat dolor commodo laboris enim lorem ut consectetur aute sunt eu in cupidatat ut magna ut labore ex in voluptate nostrud nisi duis in ea aliqua aliquip minim consequat exercitation culpa dolor excepteur amet incididunt tempor elit non dolore adipisicing veniam, sed proident nulla deserunt reprehenderit.
+
+Sunt exercitation cillum labore ex anim duis occaecat minim quis fugiat est amet laboris sit aliquip pariatur elit in.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>9</wp:post_id>
+				<wp:post_date>2013-06-10 21:41:15</wp:post_date>
+				<wp:post_date_gmt>2013-06-10 21:41:15</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-9</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>17</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-08-01 02:53:51</wp:comment_date>
+							<wp:comment_date_gmt>2013-08-01 02:53:51</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Ut ex nulla non tempor ad eu cillum nostrud cupidatat dolore et laboris dolor consectetur aute dolore sit occaecat consequat proident laborum sint aliquip ea amet in eiusmod labore mollit aliqua culpa sunt officia in magna exercitation anim pariatur adipisicing enim incididunt minim reprehenderit ut sed lorem ipsum deserunt.
+
+Aliqua lorem ut laborum est ut in esse enim dolor cillum ullamco nostrud aute officia consequat labore non proident ex veniam, sunt ad dolor.
+
+Reprehenderit aute dolor adipisicing cillum duis voluptate ut excepteur aliqua in in do commodo mollit occaecat ad sed consequat nostrud sint incididunt deserunt non laboris eu irure lorem nisi ea ipsum quis cupidatat consectetur culpa nulla dolore tempor dolor.
+
+Esse sint mollit dolore dolor in dolor pariatur eiusmod sed laborum nisi id fugiat aliquip sunt et nulla eu magna consequat adipisicing in ipsum non ut.
+
+Non aliqua ut ad laboris enim eu reprehenderit cillum sint labore incididunt dolore laborum anim excepteur nostrud exercitation voluptate fugiat esse adipisicing id tempor ut dolor sed.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>18</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-29 20:19:33</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-29 20:19:33</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Ut incididunt sint voluptate amet veniam, in do ex cupidatat id irure duis eiusmod elit nulla non quis et pariatur tempor aliqua consectetur excepteur aute dolore ut enim consequat proident occaecat sit nisi lorem labore laboris in in sed ad laborum fugiat anim dolore ipsum exercitation.
+
+Adipisicing commodo do in aliqua dolore nulla in exercitation ut eiusmod aliquip.
+
+Consequat sunt eiusmod qui officia fugiat sint nisi eu ullamco nulla ea in adipisicing in dolor elit voluptate nostrud aliqua sed veniam, laborum pariatur cupidatat non anim in labore amet dolore dolore reprehenderit excepteur tempor mollit esse culpa duis sit consectetur quis ut id aute ex exercitation ad occaecat enim deserunt dolor aliquip est proident velit ut.
+
+Voluptate commodo dolor sed quis exercitation pariatur consequat adipisicing officia cillum sit anim non velit eu elit magna nostrud consectetur laboris aliqua deserunt ut est mollit dolore dolore ea duis ad ut qui et occaecat aute irure lorem amet sunt ut minim ullamco reprehenderit excepteur veniam, cupidatat in laborum fugiat nisi ex esse enim ipsum in eiusmod do sint.
+
+Laborum ullamco duis ex deserunt lorem ipsum fugiat est dolor esse aute reprehenderit veniam, excepteur nisi.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+						<item>
+				<title>Post Number 10</title>
+				<link>http://github.com/dllh/make-wxr/2013/07/post-number-10/</link>
+				<pubDate>Wed, 17 Jul 2013 07:44:50 +0000</pubDate>
+				<dc:creator>author1</dc:creator>
+				<guid isPermaLink="false"></guid>
+				<description></description>
+				<content:encoded><![CDATA[Eiusmod voluptate dolor lorem pariatur nostrud dolore officia consequat laboris minim in in sunt enim tempor irure occaecat anim ut laborum ex nulla est quis deserunt commodo esse culpa reprehenderit consectetur velit ea ut magna et in sit adipisicing veniam,.
+
+Pariatur nulla consectetur in ut sint sed culpa lorem magna deserunt ut incididunt non adipisicing sit eiusmod fugiat veniam, amet ut sunt ipsum anim tempor nisi eu occaecat excepteur aliquip commodo nostrud.
+
+Non lorem eiusmod cupidatat do ad exercitation quis id occaecat deserunt reprehenderit irure elit adipisicing laboris officia sed ea in anim sunt duis incididunt nulla dolore tempor voluptate dolor ipsum amet cillum labore minim laborum dolore aliquip velit culpa enim consequat ex aliqua eu est commodo sit aute mollit consectetur.
+
+Enim dolor deserunt veniam, eiusmod adipisicing commodo elit officia in velit.
+
+Cupidatat ullamco qui commodo laborum tempor.]]></content:encoded>
+				<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+				<wp:post_id>10</wp:post_id>
+				<wp:post_date>2013-07-17 07:44:50</wp:post_date>
+				<wp:post_date_gmt>2013-07-17 07:44:50</wp:post_date_gmt>
+				<wp:comment_status>open</wp:comment_status>
+				<wp:ping_status>open</wp:ping_status>
+				<wp:post_name>post-number-10</wp:post_name>
+				<wp:status>publish</wp:status>
+				<wp:post_parent>0</wp:post_parent>
+				<wp:menu_order>0</wp:menu_order>
+				<wp:post_type>post</wp:post_type>
+				<wp:post_password></wp:post_password>
+				<wp:is_sticky>0</wp:is_sticky>
+
+										<category domain="category" nicename="category-e08ff0ada9-0"><![CDATA[Category e08ff0ada9 0]]></category>
+				
+										<category domain="category" nicename="category-fe0b314ccf-1"><![CDATA[Category fe0b314ccf 1]]></category>
+				
+										<category domain="category" nicename="category-3fab03c6f4-2"><![CDATA[Category 3fab03c6f4 2]]></category>
+				
+				
+										<category domain="post_tag" nicename="tag-86189fc977-0"><![CDATA[Tag 86189fc977 0]]></category>
+				
+										<category domain="post_tag" nicename="tag-897718d4dc-1"><![CDATA[Tag 897718d4dc 1]]></category>
+				
+										<category domain="post_tag" nicename="tag-4ff5b67023-2"><![CDATA[Tag 4ff5b67023 2]]></category>
+				
+				
+										<wp:comment>
+							<wp:comment_id>19</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-08-03 16:15:05</wp:comment_date>
+							<wp:comment_date_gmt>2013-08-03 16:15:05</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Consectetur sint nostrud ut laboris do in cillum nulla excepteur aliqua reprehenderit dolore magna adipisicing in nisi qui pariatur velit quis consequat anim occaecat aute ullamco incididunt fugiat eiusmod esse est dolor deserunt in.
+
+Non excepteur nisi amet veniam, sint voluptate dolore esse occaecat ea dolor deserunt ut nostrud culpa aute sed cillum in nulla sit consequat ut laborum in et.
+
+Lorem laborum deserunt pariatur amet ipsum nulla nisi aliqua cupidatat consectetur eu nostrud anim sed culpa laboris irure veniam, et fugiat aute.
+
+Deserunt qui dolor ea labore consequat incididunt ut mollit minim tempor occaecat in culpa nostrud dolore nulla nisi.
+
+Ut reprehenderit duis eu eiusmod ad nulla consectetur ullamco do ex aliqua sit nostrud laborum labore mollit amet dolore fugiat laboris aute non culpa est cillum incididunt velit occaecat consequat nisi irure lorem commodo officia sunt.
+
+Dolore nulla et do eiusmod pariatur exercitation ut aliqua sint lorem mollit quis cupidatat ex labore ad sed officia consectetur dolore anim fugiat adipisicing id sunt sit consequat irure nostrud duis eu deserunt non culpa aute dolor qui ipsum ullamco proident laboris nisi veniam, magna ut occaecat excepteur in esse enim in voluptate reprehenderit elit commodo dolor ea cillum minim aliquip est velit incididunt in laborum amet tempor ut.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+										<wp:comment>
+							<wp:comment_id>20</wp:comment_id>
+							<wp:comment_author><![CDATA[author1]]></wp:comment_author>
+							<wp:comment_author_email></wp:comment_author_email>
+							<wp:comment_author_url>http://github.com/dllh/make-wxr/</wp:comment_author_url>
+							<wp:comment_author_IP></wp:comment_author_IP>
+							<wp:comment_date>2013-07-19 03:11:01</wp:comment_date>
+							<wp:comment_date_gmt>2013-07-19 03:11:01</wp:comment_date_gmt>
+							<wp:comment_content><![CDATA[Nulla occaecat officia in cillum sit commodo aliquip fugiat ullamco irure ipsum aliqua enim laboris tempor ea minim deserunt dolore esse dolor qui est et ut anim ut in in.
+
+Irure sit reprehenderit ut elit sunt excepteur labore culpa dolor tempor duis anim occaecat pariatur laboris enim officia proident laborum in dolore sed commodo ut esse eu dolore exercitation mollit deserunt est do dolor veniam, cupidatat amet ad quis cillum in velit nulla ut aliqua lorem id nisi consequat nostrud ex ipsum non qui sint aute incididunt adipisicing in et aliquip eiusmod minim fugiat consectetur magna ullamco voluptate.
+
+Dolor quis commodo lorem ad mollit reprehenderit.]]></wp:comment_content>
+							<wp:comment_approved>1</wp:comment_approved>
+							<wp:comment_type></wp:comment_type>
+							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_user_id>0</wp:comment_user_id>
+						</wp:comment>
+				
+			</item>
+			
+		</channel>
+</rss>

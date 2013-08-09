@@ -18,5 +18,7 @@ Notes:
 * Categories and tags will look something like this: category-2271601f08-1 (counting up from 1 to N, with some random garbage thrown in).
 * The tag and category counts govern how many are created (that is, listed at the top and created at the beginning of the import process). Each post will have 5 categories and 5 tags (or fewer, if you specify smaller --tag_count and --cat_count arguments), randomly selected from among those created at the beginning.
 * Beware setting the counts too high. At present, the command just spits out whatever you tell it to.
-
+* Dates are randomized. For posts, they start 60 days from when the command is executed and are randomly assigned to posts without regard to numeric post order. Comment dates are given between the post date and the time of command execution.
+* Post and comment content are randomized lorem ipsum text of varying lengths.
+* At present this generates only posts -- no pages or attachments.
 

@@ -193,7 +193,7 @@ class WXR_Generator extends WP_CLI_Command {
 
 		for ( $i = 1; $i <= $this->post_count; $i++ ) {
 			$now = time();
-			$timestamp = rand( $now - ( 60 * 86400 ), $now );
+			$timestamp = rand( $now - ( 60 * DAY_IN_SECONDS ), $now );
 			$slug_date = @date( 'Y/m', $timestamp );
 
 			?>
@@ -318,7 +318,7 @@ class WXR_Generator extends WP_CLI_Command {
 			<?php $this->generate_posts(); ?>
 
 		</channel>
-		</rss>
+</rss>
 <?php
 	}
 }
