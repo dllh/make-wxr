@@ -24,12 +24,14 @@ class WXR_Generator extends WP_CLI_Command {
 	public function __invoke( $_, $assoc_args ) {
 
 		$defaults = array(
-			'site_title'         => 'Just Another WordPress Site',
+			'site_title'        => 'Just Another WordPress Site',
 			'site_url'          => 'http://wordpress.org/',
 			'post_count'        => 10,
 			'comments_per_post' => 2,
 			'tag_count'         => 3,
 			'cat_count'         => 3,
+			'tags_per_post'     => 5,
+			'cats_per_post'     => 5,
 			'author_count'      => 1,
 		);
 
@@ -110,6 +112,26 @@ class WXR_Generator extends WP_CLI_Command {
 		return true;
 	}
 
+	private function check_cats_per_post( $num ) {
+		if ( ! is_numeric( $num ) ) {
+			WP_CLI::warning( 'Category count per post should be numeric.' );
+			return false;
+		}
+
+		$this->cats_per_post = $num;
+		return true;
+	}
+
+	private function check_tags_per_post( $num ) {
+		if ( ! is_numeric( $num ) ) {
+			WP_CLI::warning( 'Tag count per post should be numeric.' );
+			return false;
+		}
+
+		$this->tags_per_post = $num;
+		return true;
+	}
+
 	private function check_author_count( $num ) {
 		if ( ! is_numeric( $num ) ) {
 			WP_CLI::warning( 'Author count should be numeric.' );
@@ -144,7 +166,7 @@ class WXR_Generator extends WP_CLI_Command {
 
 	private function generate_categories() {
 		for ( $i = $this->cat_min_id; $i < ( $this->cat_min_id + $this->cat_count ); $i++ ) {
-				$this->categories[] = $i;
+				$this->categories[ $i ] = $i;
 			?>
 				<wp:category><wp:term_id><?php echo (int) $i; ?></wp:term_id><wp:category_nicename><?php echo esc_html( $this->get_term_slug( 'category', $i ) ); ?></wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[<?php echo esc_html( $this->get_term_name( 'category', $i ) ); ?>]]></wp:cat_name></wp:category>
 			<?php
@@ -153,7 +175,7 @@ class WXR_Generator extends WP_CLI_Command {
 
 	private function generate_tags() {
 		for ( $i = $this->tag_min_id; $i < ( $this->tag_min_id + $this->tag_count ); $i++ ) {
-				$this->tags[] = $i;
+				$this->tags[ $i ] = $i;
 			?>
 				<wp:term><wp:term_id><?php echo (int) $i; ?></wp:term_id><wp:term_taxonomy>post_tag</wp:term_taxonomy><wp:term_slug><?php echo esc_html( $this->get_term_slug( 'tag', $i ) ); ?></wp:term_slug><wp:term_name><![CDATA[<?php echo esc_html( $this->get_term_name( 'tag', $i ) ); ?>]]></wp:term_name></wp:term>
 			<?php
@@ -220,7 +242,7 @@ class WXR_Generator extends WP_CLI_Command {
 				<wp:is_sticky>0</wp:is_sticky>
 
 				<?php
-					$category_keys = array_rand( $this->categories, min( count( $this->categories ), 5 ) );
+					$category_keys = array_rand( $this->categories, min( count( $this->categories ), $this->cats_per_post ) );
 					foreach ( $category_keys as $category_key => $category_id ) {
 				?>
 						<category domain="category" nicename="<?php echo esc_attr( $this->get_term_slug( 'category', $category_id ) ); ?>"><![CDATA[<?php echo esc_html( $this->get_term_name( 'category', $category_id ) ); ?>]]></category>
@@ -230,7 +252,7 @@ class WXR_Generator extends WP_CLI_Command {
 				?>
 
 				<?php
-					$tag_keys = array_rand( $this->tags, min( count( $this->tags ), 5 ) );
+					$tag_keys = array_rand( $this->tags, min( count( $this->tags ), $this->tags_per_post ) );
 					foreach ( $tag_keys as $tag_key => $tag_id ) {
 				?>
 						<category domain="post_tag" nicename="<?php echo esc_attr( $this->get_term_slug( 'tag', $tag_id ) ); ?>"><![CDATA[<?php echo esc_html( $this->get_term_name( 'tag', $tag_id ) ); ?>]]></category>
