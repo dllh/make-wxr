@@ -19,7 +19,7 @@ class WXR_Generator extends WP_CLI_Command {
 	 * for site testing or for benchmarking in cases in which you want a site with a predetermined 
 	 * number of posts, categories, comments, etc.
 	 * 
-	 * @synopsis [--site_title=<string>] [--site_url=<url>] [--post_count=<int>] [--comments_per_post=<int>] [--tag_count=<int>] [--cat_count=<int>] [--author_count=<int>]
+	 * @synopsis [--site_title=<string>] [--site_url=<url>] [--post_count=<int>] [--comments_per_post=<int>] [--tag_count=<int>] [--cat_count=<int>] [--author_count=<int>] [--nest_comments=<true|false>]
 	 */
 	public function __invoke( $_, $assoc_args ) {
 
@@ -33,6 +33,7 @@ class WXR_Generator extends WP_CLI_Command {
 			'tags_per_post'     => 5,
 			'cats_per_post'     => 5,
 			'author_count'      => 1,
+			'nest_comments'     => false,
 		);
 
 		$args = wp_parse_args( $assoc_args, $defaults );
@@ -54,6 +55,11 @@ class WXR_Generator extends WP_CLI_Command {
 		}
 
 		$this->echo_wxr();
+	}
+
+	private function check_nest_comments( $val ) {
+		$this->nest_comments = 'true' == $val;
+		return true;
 	}
 
 	private function check_site_title( $title ) {
@@ -151,7 +157,7 @@ class WXR_Generator extends WP_CLI_Command {
 		$this->tag_count = 3;
 		$this->cat_count = 3;
 		$this->author_count = 1;
-
+		$this->nest_comments = false;
 		
 	}
 
@@ -265,6 +271,10 @@ class WXR_Generator extends WP_CLI_Command {
 					for ( $j = $this->comments_per_post; $j > 0; $j-- ) {
 						$comment_timestamp = rand( $timestamp, $now );
 						$running_comment_count++;
+						$comment_parent = 0;
+						if ( true === $this->nest_comments ) {
+							$comment_parent = rand( 1, $j );
+						}
 				?>
 						<wp:comment>
 							<wp:comment_id><?php echo (int) $running_comment_count; ?></wp:comment_id>
@@ -277,7 +287,7 @@ class WXR_Generator extends WP_CLI_Command {
 							<wp:comment_content><![CDATA[<?php echo esc_html( $this->get_random_text() ); ?>]]></wp:comment_content>
 							<wp:comment_approved>1</wp:comment_approved>
 							<wp:comment_type></wp:comment_type>
-							<wp:comment_parent>0</wp:comment_parent>
+							<wp:comment_parent><?php echo (int) $comment_parent; ?></wp:comment_parent>
 							<wp:comment_user_id>0</wp:comment_user_id>
 						</wp:comment>
 				<?php } ?>
